@@ -1,0 +1,9 @@
+Step 1: Open Remix-IDE. 
+Step 2: Select File Explorer from the left side icons and select Solidity in the environment. Click on New option 
+below the Solidity environment. Enter the file name as StructDemo.sol and Click on the OK button. 
+Step 3: Enter the following Solidity Code. Select the same solidity version as in your code.
+Step 4: Compile the file StructDemo.sol from the Solidity Compiler tab.
+Step 5: Deploy the smart contract from the Deploy and Run Transaction tab. 
+
+Step 6: Then add the employee details through addEmployee() then after that, you can view details of any 
+employee using employee id through getEmployee().

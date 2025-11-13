@@ -1,0 +1,6 @@
+Step 1: Open Remix-IDE. 
+Step 2: Select File Explorer from the left side icons and select Solidity in the environment. Click on New option 
+below the Solidity environment. Enter the file name as MyContract.sol and Click on the OK button. 
+Step 4:  Compile the file MyContract.sol from the Solidity Compiler tab. 
+Step 5: Deploy the smart contract from the Deploy and Run Transaction tab and you will get the balance 
+and address of the owner. 
